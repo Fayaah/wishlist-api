@@ -1,0 +1,9 @@
+# boring bullshit
+/.idea
+/node_modules
+
+# confidentiality
+.env
+.env.local
+.env.dev.local
+.env.prod.local
