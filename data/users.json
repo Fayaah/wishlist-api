@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8c29b219-b010-41b5-84e7-353c90f89c12",
+        "username": "johnny_boy",
+        "firstname": "John",
+        "lastname": "Doe",
+        "mail": "john.doe@example.xyz",
+        "password": "$2y$10$euP.zNROn8MhtKk5KAbYfejcnu0uQa.RwIKUY/xjcucyVKeug68Zq",
+        "roles": ["owner", "standard", "moderator", "administrator"],
+        "family_id": "8c29b219-b010-41b5-84e7-353c90f89c12",
+        "score": 560,
+        "wishlists": [
+            "8c29b219-b010-41b5-84e7-353c90f89c12",
+            "8c29b219-b010-41b5-84e7-353c90f89c12",
+            "8c29b219-b010-41b5-84e7-353c90f89c12",
+            "8c29b219-b010-41b5-84e7-353c90f89c12",
+        ]
+    }
+]
