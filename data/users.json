@@ -1,0 +1,9 @@
+[
+    {
+        "id": "8c29b219-b010-41b5-84e7-353c90f89c12",
+        "username": "johnny_boy",
+        "mail": "john.doe@example.xyz",
+        "password": "$2y$10$euP.zNROn8MhtKk5KAbYfejcnu0uQa.RwIKUY/xjcucyVKeug68Zq",
+        "roles": ["standard", "moderator", "administrator"]
+    }
+]
